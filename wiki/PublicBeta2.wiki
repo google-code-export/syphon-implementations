@@ -1,4 +1,5 @@
-#summary Syphon.framework Public Beta 2
+#summary Syphon Implementations Public Beta 2
+#labels Featured
 
 == Introduction ==
 
